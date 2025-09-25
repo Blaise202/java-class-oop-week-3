@@ -18,4 +18,4 @@
 
 #### Sample OutPut
 
-> -- 63843
+> -- The reversed number becomes: 63843
