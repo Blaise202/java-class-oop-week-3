@@ -19,3 +19,27 @@
 #### Sample OutPut
 
 > -- The reversed number becomes: 63843
+
+### Question 3: Fibonacci
+
+> -- Not done yet
+
+### Question 4: Prime Number
+
+#### Sample Prompt
+
+> -- Please enter the number to check: 46
+
+#### Sample OutPut
+
+> -- 46 is 'not prime'
+
+### Question 5: Vowels Counter
+
+#### Sample Prompt
+
+> -- Enter the string to count vowels: I am now twenty two years old.
+
+#### Sample OutPut
+
+> -- There are 8 vowels in the text you provided
